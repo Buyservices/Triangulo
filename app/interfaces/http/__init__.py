@@ -1,0 +1,3 @@
+"""
+Interfaces HTTP da aplicação.
+"""

@@ -1,0 +1,3 @@
+"""
+Pacote de infraestrutura da aplicação.
+"""

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+httpx
+pydantic
+pydantic-settings
+defusedxml
+python-dotenv
+email-validator
+requests==2.32.3
