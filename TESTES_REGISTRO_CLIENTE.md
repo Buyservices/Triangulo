@@ -537,11 +537,3 @@ form["Insere_Endereco_Outro"] = "N"
 4. **Testes automatizados**: Implementar suite de testes para regressão
 
 ---
-
-## 🚀 **Próximos Passos Recomendados**
-
-### 🔄 **Implementação de Novos Endpoints**
-
-- **Propostas**: `/v1/propostas` → `prcIncluiProposta`
-- **Adesões**: `/v1/propostas/{id}/adesao` → `prcIncluiPropostaAdesao`
-- **Recebimentos**: `/v1/propostas/{id}/recebimentos` → `prcIncluiPropostaRecebimento`
